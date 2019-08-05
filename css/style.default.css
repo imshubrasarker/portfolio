@@ -215,10 +215,11 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
   font-weight: 300;
   text-transform: uppercase;
   letter-spacing: 0.1em;
+  font-size: 15px;
 }
 
 .about-section .progress {
-  height: 30px;
+  height: 15px;
   border-radius: 0;
 }
 
